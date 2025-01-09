@@ -1,7 +1,7 @@
 ### Hey!
 I want to understand intelligence and all the processes that emerge it.
 
-Check out my website for more details: https://akarshkumar.com/
+Check out my website: https://akarshkumar.com/
 
 <!--
 **akarshkumar0101/akarshkumar0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
